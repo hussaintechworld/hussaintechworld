@@ -1,4 +1,4 @@
-- 👋 Hi, I’m frontend developer
+- 👋 Hi, I’m **Angular frontend developer**
 - 👀 I’m interested in Web and App development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
